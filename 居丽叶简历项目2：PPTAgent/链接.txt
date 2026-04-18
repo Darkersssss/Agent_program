@@ -1,0 +1,45 @@
+很多做算法的同学想在原先的项目里加入强化学习，但是不知道具体怎么做，今天就用之前的PPTAgent项目来打个样。
+
+
+
+代码如下：
+
+链接: https://pan.baidu.com/s/1mK0c_6JPEaBCVXS3TuDEZw?pwd=9y3i 提取码: 9y3i 
+
+
+
+代码讲解：
+
+飞书 Docs Link: https://ai.feishu.cn/wiki/A51lwd428iWkzRkBxlLceprhnmh 
+
+Password: 416v226&
+
+跑起来难度不大
+
+
+
+面试准备文档：
+
+飞书链接：https://ai.feishu.cn/wiki/Gdihwl655i80HwktZ66cxBGen8D?from=from_copylink   
+
+密码：71d3659@
+
+是在第一版面试准备文档上做修改和补充的，还是老样子，去面试的时候如果问到了超出这个文档范围的问题，可以在文档边上写评论，我看到就会补充。
+
+
+
+代码及项目讲解：
+
+飞书 Docs Link: https://fp9qo5yj6d.feishu.cn/docx/S0RodPkizocQFyxTGQ2clxpQnZe 
+
+Password: 61E8&776
+
+先把代码看懂，再把代码跑起来。
+
+
+
+面试准备文档：
+
+飞书 Docs Link: https://y95yb64h04.feishu.cn/docx/TsxNdSmdtoCNiLxQZCEceeO0nkc 
+
+Password: h1@55481
